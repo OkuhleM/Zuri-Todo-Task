@@ -1,0 +1,32 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Create a Node.js server using any framework of choice and appropriate folder structure",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OkuhleM/Zuri-Todo-Task.git"
+  },
+  "keywords": [
+    "Add",
+    "a",
+    "todo",
+    "task",
+    "Update",
+    "Task",
+    "Delete",
+    "Todo",
+    "task",
+    "Retrieve",
+    "Task"
+  ],
+  "author": "Lindokuhle",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OkuhleM/Zuri-Todo-Task/issues"
+  },
+  "homepage": "https://github.com/OkuhleM/Zuri-Todo-Task#readme"
+}
